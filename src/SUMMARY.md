@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Code of Conduct](./code-of-conduct.md)
+- [Governance](./governance.md)
